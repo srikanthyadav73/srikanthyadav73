@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 120" width="100%" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 140" width="100%" height="140">
   <defs>
     <linearGradient id="q-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#09090b" />
-      <stop offset="50%" stop-color="#120608" />
-      <stop offset="100%" stop-color="#070709" />
+      <stop offset="0%" stop-color="#08080a" />
+      <stop offset="50%" stop-color="#140608" />
+      <stop offset="100%" stop-color="#060608" />
     </linearGradient>
     <linearGradient id="q-border" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#7f1d1d" />
@@ -11,7 +11,7 @@
       <stop offset="100%" stop-color="#7f1d1d" />
     </linearGradient>
     <filter id="q-glow">
-      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feGaussianBlur stdDeviation="4" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
@@ -20,24 +20,29 @@
   </defs>
 
   <!-- Card Background -->
-  <rect width="820" height="120" rx="10" fill="url(#q-bg)" stroke="url(#q-border)" stroke-width="1.2" />
+  <rect width="860" height="140" rx="12" fill="url(#q-bg)" stroke="url(#q-border)" stroke-width="1.3" />
 
   <!-- Corner Cyber Accents -->
-  <path d="M 8 20 L 8 8 L 20 8" stroke="#ff2a45" stroke-width="2.5" fill="none" stroke-linecap="round" />
-  <path d="M 812 20 L 812 8 L 800 8" stroke="#ff2a45" stroke-width="2.5" fill="none" stroke-linecap="round" />
-  <path d="M 8 100 L 8 112 L 20 112" stroke="#ff2a45" stroke-width="2.5" fill="none" stroke-linecap="round" />
-  <path d="M 812 100 L 812 112 L 800 112" stroke="#ff2a45" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <path d="M 10 24 L 10 10 L 24 10" stroke="#ff2a45" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <path d="M 850 24 L 850 10 L 836 10" stroke="#ff2a45" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <path d="M 10 116 L 10 130 L 24 130" stroke="#ff2a45" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <path d="M 850 116 L 850 130 L 836 130" stroke="#ff2a45" stroke-width="2.5" fill="none" stroke-linecap="round" />
 
   <!-- Big Quote Mark -->
-  <text x="32" y="56" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#ff2a45" opacity="0.9" filter="url(#q-glow)">&#8220;</text>
+  <text x="34" y="66" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#ff2a45" opacity="0.9" filter="url(#q-glow)">&#8220;</text>
 
   <!-- Quote Text Line 1 -->
-  <text x="64" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-style="italic" font-weight="500" fill="#f1f5f9">
-    &#8220;Code is the modern canvas where logic and art collide &#8212; sculpting ideas into living digital reality.&#8221;
+  <text x="74" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-style="italic" font-weight="600" fill="#ffffff" letter-spacing="0.5">
+    &#8220;Driven by curiosity. Building for impact. Coding the future.&#8221;
+  </text>
+
+  <!-- Quote Text Line 2 -->
+  <text x="74" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-style="italic" font-weight="400" fill="#cbd5e1" letter-spacing="0.3">
+    &#8220;I enjoy turning ideas into practical software solutions.&#8221;
   </text>
 
   <!-- Attribution Line -->
-  <text x="760" y="88" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#ef4444" letter-spacing="1">
-    &#8212; The Art of Programming
+  <text x="815" y="112" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#ef4444" letter-spacing="1.5">
+    &#8212; SRIKANTH YADAV <tspan fill="#64748b" font-weight="500">| DEVELOPER PHILOSOPHY</tspan>
   </text>
 </svg>
