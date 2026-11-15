@@ -10,7 +10,7 @@
 
 <!-- SOCIAL MEDIA AND CONTACT BUTTONS -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/srikanthyadav33/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -18,11 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-srikanthyadav73-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:srikanthyadavgorla72@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
@@ -116,17 +112,11 @@
 <p align="center"><b>Programming Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,mysql&theme=dark" width="100%" style="max-width: 380px;" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=py,js,mysql&theme=dark" width="100%" style="max-width: 200px;" alt="Programming Languages" />
   </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   &nbsp;
@@ -608,8 +598,8 @@
 
 <table border="0" align="center">
 <tr>
-<td align="center" width="170" style="padding: 14px;">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<td align="center" width="210" style="padding: 14px;">
+  <a href="https://www.linkedin.com/in/srikanthyadav33/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="54" height="54" alt="LinkedIn" />
     <br /><br />
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
@@ -617,7 +607,7 @@
   <br />
   <sub><b>Professional Network</b></sub>
 </td>
-<td align="center" width="170" style="padding: 14px;">
+<td align="center" width="210" style="padding: 14px;">
   <a href="https://github.com/srikanthyadav73" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="54" height="54" alt="GitHub" />
     <br /><br />
@@ -626,17 +616,8 @@
   <br />
   <sub><b>Open Source Repos</b></sub>
 </td>
-<td align="center" width="170" style="padding: 14px;">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-  </a>
-  <br />
-  <sub><b>Problem Solving</b></sub>
-</td>
-<td align="center" width="170" style="padding: 14px;">
-  <a href="mailto:YOUR_EMAIL@example.com">
+<td align="center" width="210" style="padding: 14px;">
+  <a href="mailto:srikanthyadavgorla72@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="54" height="54" alt="Gmail" />
     <br /><br />
     <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
@@ -644,7 +625,7 @@
   <br />
   <sub><b>Direct Collaboration</b></sub>
 </td>
-<td align="center" width="170" style="padding: 14px;">
+<td align="center" width="210" style="padding: 14px;">
   <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_CV-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
     <br /><br />
