@@ -113,7 +113,7 @@
 <p align="center"><b>Programming Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,mysql&theme=dark" width="100%" style="max-width: 380px;" alt="Programming Languages: Python, Java, C, C++, JavaScript, SQL" />
+    <img src="https://skillicons.dev/icons?i=py,js,mysql&theme=dark" width="100%" style="max-width: 200px;" alt="Programming Languages: Python, JavaScript, SQL" />
   </a>
 </p>
 
